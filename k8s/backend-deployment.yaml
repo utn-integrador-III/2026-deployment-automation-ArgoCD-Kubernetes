@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: mramores/demo-backend:v1
+        image: mramores/demo-backend:v2
 
         ports:
         - containerPort: 5000
